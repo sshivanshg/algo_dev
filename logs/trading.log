@@ -58,3 +58,188 @@ KeyError: -1
 2025-05-18 18:39:23,703 - INFO - Columns before dropna: ['Open', 'High', 'Low', 'Close', 'Volume', 'SMA_20', 'RSI', 'BB_upper', 'BB_lower', 'BB_middle', 'Signal']
 2025-05-18 18:39:23,705 - INFO - Successfully generated trading signals
 2025-05-18 18:39:23,883 - INFO - Backtest completed. Total Return: 0.00%, Sharpe Ratio: nan
+2025-05-18 18:46:26,363 - ERROR - Error fetching Nifty 100 symbols: cannot remove local variables from FrameLocalsProxy
+2025-05-18 18:46:26,363 - ERROR - Failed to fetch Nifty 100 symbols
+2025-05-18 18:46:45,826 - INFO - Successfully loaded 105 Nifty 100 symbols
+2025-05-18 18:46:46,820 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:46:47,815 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:46:48,562 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:46:49,525 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:46:49,839 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:46:50,149 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:46:50,478 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:46:51,264 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:46:51,598 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:46:51,927 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:46:52,261 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:46:53,035 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:46:53,860 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:46:54,521 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:46:54,841 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:46:55,147 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:46:55,492 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:46:55,827 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:46:56,605 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:46:56,944 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:46:57,269 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:46:57,587 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:46:58,594 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:46:58,935 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:46:59,249 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:46:59,575 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:46:59,936 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:00,696 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:01,015 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:01,331 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:01,639 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:01,949 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:02,289 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:02,614 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:02,923 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:03,244 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:03,556 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:03,908 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:04,261 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:04,573 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:06,341 - INFO - Successfully fetched data for M&M.NS from Alpha Vantage
+2025-05-18 18:47:06,344 - INFO - Type of 'Close': <class 'pandas.core.series.Series'>, shape: (1255,)
+2025-05-18 18:47:06,347 - INFO - Successfully calculated technical indicators
+2025-05-18 18:47:06,348 - INFO - Columns before dropna: ['Open', 'High', 'Low', 'Close', 'Volume', 'SMA_20', 'RSI', 'BB_upper', 'BB_lower', 'BB_middle', 'Signal']
+2025-05-18 18:47:06,349 - INFO - Successfully generated trading signals
+2025-05-18 18:47:06,522 - INFO - Backtest completed. Total Return: 0.00%, Sharpe Ratio: nan
+2025-05-18 18:47:06,840 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:07,599 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:07,957 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:08,272 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:08,596 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:08,920 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:09,252 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:09,576 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:10,571 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:10,878 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:11,187 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:11,512 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:11,845 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:12,161 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:12,512 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:12,842 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:13,157 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:13,477 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:13,793 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:14,107 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:14,429 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:14,871 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:15,185 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:15,494 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:15,820 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:16,140 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:16,498 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:16,840 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:17,186 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:17,629 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:18,071 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:18,389 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:18,735 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:19,066 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:19,394 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:19,701 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:20,006 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:20,612 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:21,032 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:21,429 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:21,945 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:22,266 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:22,785 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:23,106 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:23,470 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:23,782 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:24,097 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:24,405 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:24,714 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:25,036 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:25,554 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:25,914 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:26,232 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:26,540 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:26,855 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:27,175 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:28,015 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:28,335 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:28,666 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:29,036 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:29,412 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:29,729 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:30,128 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:47:30,460 - ERROR - Error fetching data from Alpha Vantage: Error getting data from the api, no return was given.
+2025-05-18 18:49:14,282 - INFO - Successfully fetched data for RELIANCE.NS
+2025-05-18 18:49:14,758 - INFO - Successfully fetched data for TCS.NS
+2025-05-18 18:49:15,221 - INFO - Successfully fetched data for HDFCBANK.NS
+2025-05-18 18:55:36,470 - INFO - Successfully fetched data for RELIANCE.NS
+2025-05-18 18:55:36,470 - INFO - Type of 'Close': <class 'pandas.core.series.Series'>, shape: (246,)
+2025-05-18 18:55:36,474 - INFO - Successfully calculated technical indicators
+2025-05-18 18:55:36,476 - INFO - Successfully generated trading signals
+2025-05-18 18:55:36,851 - INFO - Successfully fetched data for TCS.NS
+2025-05-18 18:55:36,851 - INFO - Type of 'Close': <class 'pandas.core.series.Series'>, shape: (246,)
+2025-05-18 18:55:36,854 - INFO - Successfully calculated technical indicators
+2025-05-18 18:55:36,857 - INFO - Successfully generated trading signals
+2025-05-18 18:55:37,134 - INFO - Successfully fetched data for HDFCBANK.NS
+2025-05-18 18:55:37,134 - INFO - Type of 'Close': <class 'pandas.core.series.Series'>, shape: (246,)
+2025-05-18 18:55:37,138 - INFO - Successfully calculated technical indicators
+2025-05-18 18:55:37,141 - INFO - Successfully generated trading signals
+2025-05-18 18:59:29,568 - INFO - Successfully fetched data for RELIANCE.NS
+2025-05-18 18:59:29,569 - INFO - Type of 'Close': <class 'pandas.core.series.Series'>, shape: (246,)
+2025-05-18 18:59:29,572 - INFO - Successfully calculated technical indicators
+2025-05-18 18:59:29,575 - INFO - Successfully generated trading signals
+2025-05-18 18:59:29,920 - INFO - Successfully fetched data for TCS.NS
+2025-05-18 18:59:29,921 - INFO - Type of 'Close': <class 'pandas.core.series.Series'>, shape: (246,)
+2025-05-18 18:59:29,925 - INFO - Successfully calculated technical indicators
+2025-05-18 18:59:29,929 - INFO - Successfully generated trading signals
+2025-05-18 18:59:30,196 - INFO - Successfully fetched data for HDFCBANK.NS
+2025-05-18 18:59:30,197 - INFO - Type of 'Close': <class 'pandas.core.series.Series'>, shape: (246,)
+2025-05-18 18:59:30,200 - INFO - Successfully calculated technical indicators
+2025-05-18 18:59:30,204 - INFO - Successfully generated trading signals
+2025-05-18 19:05:11,003 - INFO - Successfully fetched data for RELIANCE.NS
+2025-05-18 19:05:11,003 - INFO - Type of 'Close': <class 'pandas.core.series.Series'>, shape: (246,)
+2025-05-18 19:05:11,007 - INFO - Successfully calculated technical indicators
+2025-05-18 19:05:11,009 - ERROR - Error generating signals: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-18 19:05:11,275 - INFO - Successfully fetched data for TCS.NS
+2025-05-18 19:05:11,276 - INFO - Type of 'Close': <class 'pandas.core.series.Series'>, shape: (246,)
+2025-05-18 19:05:11,280 - INFO - Successfully calculated technical indicators
+2025-05-18 19:05:11,283 - ERROR - Error generating signals: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-18 19:05:11,609 - INFO - Successfully fetched data for HDFCBANK.NS
+2025-05-18 19:05:11,610 - INFO - Type of 'Close': <class 'pandas.core.series.Series'>, shape: (246,)
+2025-05-18 19:05:11,613 - INFO - Successfully calculated technical indicators
+2025-05-18 19:05:11,616 - ERROR - Error generating signals: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-18 19:06:03,478 - INFO - Successfully fetched data for RELIANCE.NS
+2025-05-18 19:06:03,479 - INFO - Type of 'Close': <class 'pandas.core.series.Series'>, shape: (246,)
+2025-05-18 19:06:03,482 - INFO - Successfully calculated technical indicators
+2025-05-18 19:06:03,484 - ERROR - Error generating signals: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-18 19:06:03,752 - INFO - Successfully fetched data for TCS.NS
+2025-05-18 19:06:03,752 - INFO - Type of 'Close': <class 'pandas.core.series.Series'>, shape: (246,)
+2025-05-18 19:06:03,756 - INFO - Successfully calculated technical indicators
+2025-05-18 19:06:03,760 - ERROR - Error generating signals: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-18 19:06:04,022 - INFO - Successfully fetched data for HDFCBANK.NS
+2025-05-18 19:06:04,023 - INFO - Type of 'Close': <class 'pandas.core.series.Series'>, shape: (246,)
+2025-05-18 19:06:04,027 - INFO - Successfully calculated technical indicators
+2025-05-18 19:06:04,031 - ERROR - Error generating signals: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-05-18 19:06:53,216 - INFO - Successfully fetched data for RELIANCE.NS
+2025-05-18 19:06:53,216 - ERROR - Error calculating indicators: 'Close'
+2025-05-18 19:06:53,494 - INFO - Successfully fetched data for TCS.NS
+2025-05-18 19:06:53,494 - ERROR - Error calculating indicators: 'Close'
+2025-05-18 19:06:53,776 - INFO - Successfully fetched data for HDFCBANK.NS
+2025-05-18 19:06:53,777 - ERROR - Error calculating indicators: 'Close'
+2025-05-18 19:08:12,547 - INFO - Successfully fetched data for RELIANCE.NS
+2025-05-18 19:08:12,548 - INFO - Type of 'Close': <class 'pandas.core.series.Series'>, shape: (246,)
+2025-05-18 19:08:12,552 - INFO - Successfully calculated technical indicators
+2025-05-18 19:08:12,558 - INFO - Successfully generated trading signals
+2025-05-18 19:08:12,599 - INFO - Backtest completed. Total Return: 0.00%, Sharpe Ratio: nan
+2025-05-18 19:08:12,899 - INFO - Successfully fetched data for TCS.NS
+2025-05-18 19:08:12,899 - INFO - Type of 'Close': <class 'pandas.core.series.Series'>, shape: (246,)
+2025-05-18 19:08:12,902 - INFO - Successfully calculated technical indicators
+2025-05-18 19:08:12,908 - INFO - Successfully generated trading signals
+2025-05-18 19:08:12,950 - INFO - Backtest completed. Total Return: 0.00%, Sharpe Ratio: nan
+2025-05-18 19:08:13,327 - INFO - Successfully fetched data for HDFCBANK.NS
+2025-05-18 19:08:13,327 - INFO - Type of 'Close': <class 'pandas.core.series.Series'>, shape: (246,)
+2025-05-18 19:08:13,332 - INFO - Successfully calculated technical indicators
+2025-05-18 19:08:13,342 - INFO - Successfully generated trading signals
+2025-05-18 19:08:13,387 - INFO - Backtest completed. Total Return: 0.00%, Sharpe Ratio: nan
