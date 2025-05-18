@@ -1,0 +1,60 @@
+2025-05-18 18:28:12,931 - INFO - Successfully fetched data for RELIANCE.NS
+2025-05-18 18:28:12,932 - ERROR - Error calculating indicators: Data must be 1-dimensional, got ndarray of shape (64, 1) instead
+2025-05-18 18:29:16,021 - INFO - Successfully fetched data for RELIANCE.NS
+2025-05-18 18:29:16,022 - ERROR - Error calculating indicators: Data must be 1-dimensional, got ndarray of shape (64, 1) instead
+2025-05-18 18:29:47,855 - INFO - Successfully fetched data for RELIANCE.NS
+2025-05-18 18:29:47,856 - INFO - Type of 'Close': <class 'pandas.core.series.Series'>, shape: (64,)
+2025-05-18 18:29:47,859 - INFO - Successfully calculated technical indicators
+2025-05-18 18:29:47,860 - ERROR - Error generating signals: Operands are not aligned. Do `left, right = left.align(right, axis=1, copy=False)` before operating.
+2025-05-18 18:30:11,491 - INFO - Successfully fetched data for RELIANCE.NS
+2025-05-18 18:30:11,492 - INFO - Type of 'Close': <class 'pandas.core.series.Series'>, shape: (64,)
+2025-05-18 18:30:11,495 - INFO - Successfully calculated technical indicators
+2025-05-18 18:30:11,495 - ERROR - Error generating signals: ['Close', 'SMA_20', 'RSI', 'BB_lower', 'BB_upper']
+2025-05-18 18:30:49,344 - INFO - Successfully fetched data for RELIANCE.NS
+2025-05-18 18:30:49,345 - INFO - Type of 'Close': <class 'pandas.core.series.Series'>, shape: (64,)
+2025-05-18 18:30:49,348 - INFO - Successfully calculated technical indicators
+2025-05-18 18:30:49,349 - INFO - Columns before dropna: [('Close', 'RELIANCE.NS'), ('High', 'RELIANCE.NS'), ('Low', 'RELIANCE.NS'), ('Open', 'RELIANCE.NS'), ('Volume', 'RELIANCE.NS'), ('SMA_20', ''), ('RSI', ''), ('BB_upper', ''), ('BB_lower', ''), ('BB_middle', ''), ('Signal', '')]
+2025-05-18 18:30:49,349 - ERROR - Error generating signals: ['Close', 'SMA_20', 'RSI', 'BB_lower', 'BB_upper']
+2025-05-18 18:35:49,544 - INFO - Successfully fetched data for RELIANCE.BSE from Alpha Vantage
+2025-05-18 18:35:49,546 - INFO - Type of 'Close': <class 'pandas.core.series.Series'>, shape: (5015,)
+2025-05-18 18:35:49,552 - INFO - Successfully calculated technical indicators
+2025-05-18 18:35:49,553 - INFO - Columns before dropna: ['Open', 'High', 'Low', 'Close', 'Volume', 'SMA_20', 'RSI', 'BB_upper', 'BB_lower', 'BB_middle', 'Signal']
+2025-05-18 18:35:49,555 - INFO - Successfully generated trading signals
+2025-05-18 18:35:52,854 - INFO - Backtest completed. Total Return: 0.00%, Sharpe Ratio: nan
+2025-05-18 18:36:34,661 - INFO - Successfully fetched data for RELIANCE.BSE from Alpha Vantage
+2025-05-18 18:36:34,662 - INFO - Type of 'Close': <class 'pandas.core.series.Series'>, shape: (5015,)
+2025-05-18 18:36:34,667 - INFO - Successfully calculated technical indicators
+2025-05-18 18:36:34,668 - INFO - Columns before dropna: ['Open', 'High', 'Low', 'Close', 'Volume', 'SMA_20', 'RSI', 'BB_upper', 'BB_lower', 'BB_middle', 'Signal']
+2025-05-18 18:36:34,669 - INFO - Successfully generated trading signals
+2025-05-18 18:36:34,670 - ERROR - Error during backtesting: -1
+2025-05-18 18:38:31,203 - INFO - Successfully fetched data for RELIANCE.BSE from Alpha Vantage
+2025-05-18 18:38:31,206 - INFO - Type of 'Close': <class 'pandas.core.series.Series'>, shape: (1232,)
+2025-05-18 18:38:31,211 - INFO - Successfully calculated technical indicators
+2025-05-18 18:38:31,211 - INFO - Columns before dropna: ['Open', 'High', 'Low', 'Close', 'Volume', 'SMA_20', 'RSI', 'BB_upper', 'BB_lower', 'BB_middle', 'Signal']
+2025-05-18 18:38:31,213 - INFO - Successfully generated trading signals
+2025-05-18 18:38:31,214 - ERROR - Error during backtesting: -1
+2025-05-18 18:38:56,089 - INFO - Successfully fetched data for RELIANCE.BSE from Alpha Vantage
+2025-05-18 18:38:56,091 - INFO - Type of 'Close': <class 'pandas.core.series.Series'>, shape: (1232,)
+2025-05-18 18:38:56,096 - INFO - Successfully calculated technical indicators
+2025-05-18 18:38:56,096 - INFO - Columns before dropna: ['Open', 'High', 'Low', 'Close', 'Volume', 'SMA_20', 'RSI', 'BB_upper', 'BB_lower', 'BB_middle', 'Signal']
+2025-05-18 18:38:56,098 - INFO - Successfully generated trading signals
+2025-05-18 18:38:56,103 - ERROR - Error during backtesting: -1
+Traceback (most recent call last):
+  File "/Users/shivanshgupta/Documents/Algo_dev/src/trading_algo.py", line 190, in backtest
+    portfolio.loc[i, 'Holdings'] = portfolio.loc[i-1, 'Holdings']
+                                   ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/Users/shivanshgupta/Documents/Algo_dev/venv/lib/python3.13/site-packages/pandas/core/indexing.py", line 1183, in __getitem__
+    return self.obj._get_value(*key, takeable=self._takeable)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shivanshgupta/Documents/Algo_dev/venv/lib/python3.13/site-packages/pandas/core/frame.py", line 4221, in _get_value
+    row = self.index.get_loc(index)
+  File "/Users/shivanshgupta/Documents/Algo_dev/venv/lib/python3.13/site-packages/pandas/core/indexes/datetimes.py", line 627, in get_loc
+    raise KeyError(key)
+KeyError: -1
+
+2025-05-18 18:39:23,695 - INFO - Successfully fetched data for RELIANCE.BSE from Alpha Vantage
+2025-05-18 18:39:23,698 - INFO - Type of 'Close': <class 'pandas.core.series.Series'>, shape: (1232,)
+2025-05-18 18:39:23,703 - INFO - Successfully calculated technical indicators
+2025-05-18 18:39:23,703 - INFO - Columns before dropna: ['Open', 'High', 'Low', 'Close', 'Volume', 'SMA_20', 'RSI', 'BB_upper', 'BB_lower', 'BB_middle', 'Signal']
+2025-05-18 18:39:23,705 - INFO - Successfully generated trading signals
+2025-05-18 18:39:23,883 - INFO - Backtest completed. Total Return: 0.00%, Sharpe Ratio: nan
